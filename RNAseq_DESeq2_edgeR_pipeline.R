@@ -4,7 +4,7 @@
 # Using DESeq2 and edgeR on RNA-seq Count Data
 ###############################################
 
-# Load required libraries
+# Load required libraries (Alot of Libraries are present in BiocManager library)
 library(DESeq2)    
 library(ggplot2)    
 library(edgeR)      
